@@ -1,6 +1,6 @@
 # hack4lx_Instagram-Location
 
-How To Tutorials Video Install Script :: (https://youtu.be/bsfraYZNXS8)
+How To Tutorials Video Install Script :: (https://www.youtube.com/watch?v=bsfraYZNXS8)
 **********************************************************
 
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
