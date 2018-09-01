@@ -10,7 +10,7 @@
 
 *** Run the installer At the command prompt, type
 *************************************************
-2) install *** https://github.com/instagrambot/instabot.git
+2) install *** ?
 3) pip install instagram
 4) pip install instagram--upgrade
 5) python setup.py install
