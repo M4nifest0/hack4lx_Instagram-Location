@@ -1,8 +1,5 @@
 # hack4lx_Instagram-Location
 
-How to Install Script:: (https://github.com/attakercyebr/hack4lx_Scraper-/blob/master/hack4lx_Scraper_Install)
-**********************************************************
-
 How To Tutorials Video Install Script :: (https://www.youtube.com/watch?v=rdFWibV5tFA)
 **********************************************************
 
